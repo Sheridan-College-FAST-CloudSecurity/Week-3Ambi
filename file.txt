@@ -2,3 +2,4 @@ Adding new line to demonstrate HEAD
 adding a new feature-line
 adding line 3
 adding another line
+adding line 4
